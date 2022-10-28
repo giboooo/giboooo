@@ -3,12 +3,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giboooo&include_all_commits=true&show_icons=true&layout=compact&count_private=true" alt="stats"/>
 
-<h3>:computer:Prefered stack:</h3>
-<p>Smart Contract: Solidity using Truffle or Hardhat or Remix</br>
-Storage: IPFS</br>
-Client: web3.js or ether.js</br>
-Front: next.js</p>
-</br>
 <h3>Experiences:</h3>
 <p>RomaN-Date : 3rd price winner for the Cyberconnect Bounty on ETH SHANGHAI 2022 Hackathon </p>
 <p>RomaN is a socialfi dating dApp, prepaid, pay and earn by LIKE
