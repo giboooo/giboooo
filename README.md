@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giboooo&include_all_commits=true&show_icons=true&layout=compact&count_private=true" alt="stats"/>
 
 <h3>Experiences:</h3>
-<p>RomaN-Date : 3rd price winner for the Cyberconnect Bounty on ETH SHANGHAI 2022 Hackathon </p>
+<p>RomaN-Date : 3rd prize winner for the Cyberconnect Bounty on ETH SHANGHAI 2022 Hackathon </p>
 <p>RomaN is a socialfi dating dApp, prepaid, pay and earn by LIKE
 With user interactions built based on decentralized protocols, users receive recommended links through CyberConnect, view pre-generated profiles through RSS3, and are able to converse with ones' digital identity through XMTP.</p>
 <div>App Link: https://roman-date.vercel.app</br>
